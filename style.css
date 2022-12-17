@@ -1,0 +1,281 @@
+.bg-light{
+    background-color: transparent !important;
+}
+.addMag{
+    margin-left: 290px;
+}
+.dropdown-top{
+    margin-left: 1320px;
+    list-style: none;
+}
+.MTOP{
+    margin-top: 60px;
+}
+.hero{
+    margin-left: 15px;
+}
+.hero h1{
+    font-size: 66px;
+    font-weight: 800;
+}
+.hero h1 span{
+    color: rgb(0, 107, 255);
+}
+.hero p{
+    font-size: 20px;
+    color: rgb(85, 81, 81);
+}
+.btn-outline-success{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(0, 107, 255);
+    color: white;
+}
+.IMG-mag{
+    margin-left: 90px;
+}
+.use{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.use h3{
+    line-height: 40px;
+}
+.use span{
+    color: rgb(0, 107, 255);
+}
+.d-flex{
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.text-bg-primary{
+    border-radius: 50px;
+    margin-right: 5px;
+}
+.MGRight{
+    margin-top: 40px;
+}
+.hero-2{
+    margin-left: 120px;
+}
+.hero-2 h1{
+    font-size: 60px;
+    font-weight: 800;
+}
+.hero-2 h1 span{
+    color: rgb(0, 107, 255);
+}
+.btn-dark{
+    border-radius: 25%;
+    height: 60px;
+}
+.hero-2 p{
+    font-size: 20px;
+    color: rgb(85, 81, 81);
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.sty{
+    font-size: 24px;
+    line-height: 30px;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.sty-1{
+    color: rgb(0, 107, 255);
+    margin-bottom: 30px;
+}
+.newjust{
+    justify-content: center;
+}
+.adimg{
+    margin-left: 60px;
+}
+.ad{
+    margin-left: 40px;
+}
+.sty-3{
+    margin-bottom: 30px;
+    color: rgb(85, 81, 81);
+}
+.hero-3{
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.hero-3-img{
+    margin-top: 30px;
+}
+.bg{
+    background-color: rgb(247, 250, 255);
+    height: 580px;
+}
+.sty-4{
+    color: rgb(0, 107, 255);
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+.image{
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+.image-2{
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+.advert{
+    color: white;
+    position: relative;
+}
+.text{
+    position: relative;
+    margin-top: 170px;
+    z-index: 1;
+    line-height: 60px;
+    font-weight: 800;
+    font-size: 45px;;
+}
+.text-2{
+    position: relative;
+    margin-top: 120px;
+    z-index: 1;
+    line-height: 50px;
+    font-weight: 500;
+    font-size: 37px;;
+}
+.btn-primary{
+    position: relative;
+    margin-left: 648px;
+    margin-top: 40px;
+    border-radius: 25px;
+}
+.sty-5{
+    font-size: 23px;
+}
+.foot-item{
+    margin-top: 90px;
+}
+.foot-nav{
+    display: inline-block;
+    list-style: none;
+}
+.foot-nav a{
+    text-decoration: none;
+    color: black;
+}
+.list{
+    list-style: none;
+}
+.brnd{
+    margin-left: 150px;
+}
+.foot-nav h5{
+    color: rgb(0, 107, 255);
+}
+.brnd h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+.brnd h3 span{
+    color: rgb(0, 107, 255);
+}
+.but-mag{
+    margin-right: 260px;
+    border-color: rgb(0, 107, 255);
+    border-radius: 25%;
+    height: 60px;
+}
+.btn-outline-primary{
+    border-radius: 25%;
+    height: 60px;
+    background-color: rgb(0, 107, 255);
+    color: white;
+}
+.allgood{
+    margin-bottom: 80px;
+}
+.great-day{
+    margin-top: 60px;
+}
+.give{
+    color: rgb(0, 107, 255); 
+}
+.dabest{
+    margin-top: 25px;
+    font-size: 20px;
+}
+.addright{
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 80px;
+}
+.buttomMag{
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+.btncen{
+    border-radius: 25%;
+    height: 60px;
+    margin-left: 580px;
+    margin-top: 30px;
+}
+.btncen2{
+    height: 40px;
+    margin-left: 580px;
+    margin-top: 10px; 
+}
+.use h2{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 25px;
+    margin-top: 60px;
+}
+.use p{
+    margin-bottom: 20px;
+}
+.advert-2{
+    color: white;
+    margin-bottom: 60px;
+    margin-top: 50px;
+}
+.logos{
+    position: relative;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.invincible{
+    margin-top: 130px;
+    margin-right: 120px;  
+}
+.smile{
+    box-shadow: 10px 10px 10px rgb(0, 107, 255);
+    border-bottom-right-radius: 50px;
+    margin-top: 50px;
+}
+.smile1{
+    box-shadow: 10px 10px 10px rgb(0, 107, 255);
+    border-bottom-right-radius: 50px;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+.smile1 .phead{
+    color: rgb(0, 107, 255);
+    font-size: 20px;
+    font-weight: 500;
+}
+.smile .phead{
+    color: rgb(0, 107, 255);
+    font-size: 20px;
+    font-weight: 500;
+}
+.smile img{
+    border-radius: 50px;
+}
+.smile1 img{
+    border-radius: 50px;
+}
+.but-2{
+    margin-top: 80px;
+    margin-left: 50px;
+}
